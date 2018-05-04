@@ -1,0 +1,15 @@
+body {
+    background-color: #E8E8E8;
+}
+
+h1.jumbotron {
+    background-color: #ffef96;
+    text-align: center;
+    margin-top: 0;
+}
+
+#button {
+    padding: 10px;
+    background-color: #8cef83;
+}
+
